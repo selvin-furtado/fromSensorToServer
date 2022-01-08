@@ -1,0 +1,6 @@
+ESP32 pin     Peripherial Device pin
+GPIO 4        DHT11 Signal pin
+GPIO 22       OLED SCL
+GPIO 21       OLED SDA
+3.3V          OLED Vcc, DHT11 Vcc (+)
+GND           OLED Gnd, DHT11 Gnd (-)
